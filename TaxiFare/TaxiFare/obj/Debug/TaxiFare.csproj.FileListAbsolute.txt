@@ -1,0 +1,11 @@
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\bin\Debug\TaxiFare.exe.config
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\bin\Debug\TaxiFare.exe
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\bin\Debug\TaxiFare.pdb
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.csproj.AssemblyReference.cache
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.csproj.SuggestedBindingRedirects.cache
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.Form1.resources
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.Properties.Resources.resources
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.csproj.GenerateResource.cache
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.csproj.CoreCompileInputs.cache
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.exe
+C:\Users\m2201882\OneDrive - Middlesbrough College\Documents\-------------------------YEAR 2-------------------------\TREVOR\C# .NET work\TaxiFare\TaxiFare\obj\Debug\TaxiFare.pdb
